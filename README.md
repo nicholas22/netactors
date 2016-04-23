@@ -1,4 +1,4 @@
 netactors
 =========
 
-Lean actor framework, geared primarily towards TCP/UDP networked interactions
+Minimalistic actor framework, geared primarily towards simple TCP/UDP networked interactions using Netty
